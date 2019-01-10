@@ -4,7 +4,7 @@
 	<test name="AutomationTest">
 		<classes>
 			<class
-				name="com.tirebuyer.framework.CucumberRunner" />
+				name="com.tirebuyer.runner.CucumberRunner" />
 		</classes>
 	</test>
 </suite>

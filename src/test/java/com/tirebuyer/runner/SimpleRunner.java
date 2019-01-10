@@ -1,4 +1,4 @@
-package com.tirebuyer.framework;
+package com.tirebuyer.runner;
 
 import java.util.concurrent.TimeUnit;
 
@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.tirebuyer.pageobjects.HomePage;
 
-public class TestRunnerMain {
+public class SimpleRunner {
 
 	static {
 		// TODO: Read from a config file

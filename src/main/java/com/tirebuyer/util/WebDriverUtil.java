@@ -1,4 +1,4 @@
-package com.tirebuyer.framework;
+package com.tirebuyer.util;
 
 import java.util.Iterator;
 import java.util.Set;

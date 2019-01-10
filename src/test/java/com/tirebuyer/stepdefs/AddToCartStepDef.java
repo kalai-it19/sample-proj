@@ -9,13 +9,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.tirebuyer.framework.WebDriverUtil;
 import com.tirebuyer.pageobjects.CartAndDeliveryPage;
 import com.tirebuyer.pageobjects.HomePage;
 import com.tirebuyer.pageobjects.PayPalLoginPage;
 import com.tirebuyer.pageobjects.PaymentPage;
 import com.tirebuyer.pageobjects.ShopTiresPage;
 import com.tirebuyer.pageobjects.TireDetailsPage;
+import com.tirebuyer.util.WebDriverUtil;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
